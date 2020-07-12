@@ -1,5 +1,5 @@
 # Docker Poetry
 
 ```zsh
-$ docker run -ti  tz4678/poetry:latest poetry /bin/sh
+$ docker run -i -t  tz4678/poetry:latest sh
 ```
